@@ -15,7 +15,7 @@ Here are the tools and technologies I work with:
 - **Tools**: Git, Docker, Kubernetes, VS Code, Postman
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Cloud**: AWS, Azure, GCP
-- **OS**: Linux, Ubentu, Windows
+- **OS**: Linux, Ubuntu, Windows
 - **IAS**: Terraform, Ansible
 
 Feel free to explore my repositories! I am always open to feedback and collaboration. Let's connect and build something awesome together! 🚀
